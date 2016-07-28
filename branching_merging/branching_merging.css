@@ -14,7 +14,9 @@ p{
 .image{
 	display: inline-block;
 	border-style: solid;
-	border-color: silver;
+
+	border-color: pink;
+
 	vertical-align: top;
 	height: 190px;
 	width: 240px;
